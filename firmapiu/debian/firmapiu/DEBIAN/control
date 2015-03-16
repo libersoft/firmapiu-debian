@@ -1,0 +1,12 @@
+Package: firmapiu
+Version: 0.1
+Architecture: all
+Maintainer: Valerio Baldisserotto <svalo@libersoft.it>
+Installed-Size: 26
+Depends: firmapiu-gui
+Section: misc
+Priority: optional
+Homepage: http://libersoft.it
+Description: Meta-package installing FirmaPiu software
+ This meta-package installs firmapiu-gui, libfirmapiu-java and firmapiu-daemon,
+ a suite to easily sign and  verify files complying with Italian law

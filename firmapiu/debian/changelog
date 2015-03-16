@@ -1,0 +1,6 @@
+firmapiu (0.1) libersoft-devel; urgency=low
+
+  * Initial release.
+  * Created metapackage
+
+ -- Valerio Baldisserotto <svalo@libersoft.it>  Mon, 16 Mar 2015 17:43:06 +0100
