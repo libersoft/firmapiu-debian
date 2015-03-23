@@ -1,1 +1,2 @@
-build/resources/main/it/libersoft/firmapiu/properties/pkcs11driverlocation.properties /etc/libfirmapiu-java
+src/main/config/pkcs11driver.properties /etc/libfirmapiu-java
+

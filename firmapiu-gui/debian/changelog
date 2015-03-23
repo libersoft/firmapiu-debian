@@ -1,3 +1,15 @@
+firmapiu-gui (0.4ubuntu4-1) libersoft-devel; urgency=medium
+
+  * try to fix Mint error launching from menu
+
+ -- Valerio Baldisserotto <svalo@libersoft.it>  Mon, 23 Mar 2015 11:28:45 +0100
+
+firmapiu-gui (0.4ubuntu4) libersoft-devel; urgency=medium
+
+  * Added copyright notice and license in source code try to fix Mint error launching from menu 
+
+ -- Valerio Baldisserotto <svalo@libersoft.it>  Mon, 23 Mar 2015 10:29:36 +0100
+
 firmapiu-gui (0.4ubuntu3) libersoft-devel; urgency=medium
 
   * Changed DBus interface and method
