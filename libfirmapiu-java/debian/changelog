@@ -1,3 +1,9 @@
+libfirmapiu-java (01ubuntu3) libersoft-devel; urgency=medium
+
+  * Fixed config path
+
+ -- Valerio Baldisserotto <svalo@libersoft.it>  Mon, 23 Mar 2015 15:18:47 +0100
+
 libfirmapiu-java (01ubuntu2) libersoft-devel; urgency=medium
 
   * Fixed wrong config file location 
