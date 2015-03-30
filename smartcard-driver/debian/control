@@ -1,4 +1,4 @@
-Source: driver-smartcard
+Source: smartcard-sriver
 Section: libs
 Priority: optional
 Maintainer: Valerio Baldisserotto <svalo@libersoft.it>
@@ -6,8 +6,8 @@ Build-Depends: debhelper (>= 9.0.0)
 Standards-Version: 3.9.5
 Homepage: http://www.libersoft.it
 
-Package: driver-smartcard
-Architecture: any
+Package: smartcard-driver
+Architecture: all
 Depends: ${misc:Depends}, libacr38u, opensc
 Description: Libraries providing support to Athena and Incard/Oberthur smartcards
  This library provides drivers for Athena and Incard/Oberthur, 

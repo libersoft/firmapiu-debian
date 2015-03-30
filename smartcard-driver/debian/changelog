@@ -1,0 +1,17 @@
+smartcard-driver (0.2ubuntu2) libersoft-devel; urgency=medium
+
+  * Changed package name
+
+ -- Valerio Baldisserotto <svalo@libersoft.it>  Mon, 30 Mar 2015 17:45:54 +0200
+
+smartcard-driver (0.2ubuntu1) libersoft-devel; urgency=medium
+
+  * Closes #2072 
+
+ -- Valerio Baldisserotto <svalo@libersoft.it>  Mon, 30 Mar 2015 16:10:57 +0200
+
+smartcard-driver (0.1) libersoft-devel; urgency=low
+
+  * Initial Release.
+
+ -- Valerio Baldisserotto <svalo@libersoft.it>  Mon, 30 Mar 2015 12:37:35 +0200
