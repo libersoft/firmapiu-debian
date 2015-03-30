@@ -1,0 +1,11 @@
+driver-smartcard (0.2ubuntu1) libersoft-devel; urgency=medium
+
+  * Closes #2072 
+
+ -- Valerio Baldisserotto <svalo@libersoft.it>  Mon, 30 Mar 2015 16:10:57 +0200
+
+driver-smartcard (0.1) libersoft-devel; urgency=low
+
+  * Initial Release.
+
+ -- Valerio Baldisserotto <svalo@libersoft.it>  Mon, 30 Mar 2015 12:37:35 +0200

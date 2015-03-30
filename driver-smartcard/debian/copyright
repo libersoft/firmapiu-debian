@@ -1,13 +1,15 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: firmapiu
-Source: <http://libersoft.it>
+Upstream-Name: driver-smartcard
+Source: http://libersoft.it 
 
 Files: *
-Copyright: 2014, 2015 Valerio Baldisserotto <svalo@libersoft.it>
+Copyright: 2015 Libersoft S.r.l. 
+Author:	   Valerio Baldisserotto <svalo@libersoft.it>  
 License: GPL-3.0+
 
 Files: debian/*
-Copyright: 2015 Valerio Baldisserotto <svalo@libersoft.it>
+Copyright: 2015 Libersoft S.r.l. 
+Author:	   Valerio Baldisserotto <svalo@libersoft.it>  
 License: GPL-3.0+
 
 License: GPL-3.0+

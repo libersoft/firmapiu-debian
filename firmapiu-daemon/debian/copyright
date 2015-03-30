@@ -3,11 +3,13 @@ Upstream-Name: firmapiu-daemon
 Source: http://wwww.libersoft.it 
 
 Files: *
-Copyright: 2015 Andrea dell'Anna <ada@libersoft.it> 
+Copyright: 2015 Libersoft S.r.l. 
+Author: 2015 Andrea dell'Anna <ada@libersoft.it> 
 License: GPL-3.0+
 
 Files: debian/*
-Copyright: 2015 Valerio Baldisserotto <svalo@libersoft.it>
+Copyright: 2015 Libersoft S.r.l. 
+Author: Valerio Baldisserotto <svalo@libersoft.it>
 License: GPL-3.0+
 
 License: GPL-3.0+
