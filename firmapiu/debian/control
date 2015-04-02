@@ -8,7 +8,7 @@ Homepage: http://libersoft.it
 
 Package: firmapiu
 Architecture: all
-Depends: ${misc:Depends}, firmapiu-gui, driver-smartcard 
+Depends: ${misc:Depends}, firmapiu-gui, smartcard-driver 
 Description: Meta-package installing FirmaPiu software 
  This meta-package installs firmapiu-gui, libfirmapiu-java and firmapiu-daemon, 
  a suite to easily sign and  verify files complying with Italian law
