@@ -1,4 +1,4 @@
-Source: smartcard-sriver
+Source: smartcard-driver
 Section: libs
 Priority: optional
 Maintainer: Valerio Baldisserotto <svalo@libersoft.it>
