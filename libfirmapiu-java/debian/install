@@ -1,2 +1,3 @@
 src/main/config/pkcs11driver.properties /etc/libfirmapiu-java
-
+src/main/config/tslkeystoreconfig.properties /etc/libfirmapiu-java
+src/main/config/keystore.jks /var/lib/libfirmapiu-java
