@@ -8,7 +8,7 @@ Homepage: http://www.libersoft.it
 
 Package: smartcard-driver
 Architecture: all
-Depends: ${misc:Depends}, libacr38u, opensc
+Depends: ${misc:Depends}, libacr38u, opensc, pcscd. libccid
 Description: Libraries providing support to Athena and Incard/Oberthur smartcards
  This library provides drivers for Athena and Incard/Oberthur, 
  it provides as well drivers for all cards handled by opensc 
