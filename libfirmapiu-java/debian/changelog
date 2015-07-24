@@ -1,3 +1,17 @@
+libfirmapiu-java (0.1.5-4) libersoft-devel; urgency=medium
+
+  [ dellanna ]
+  * Implementation of getP7ByteCommandInterface of CadesBESFactory
+  * bugfix: searches on the chain of certs is made even if signer's cert is expired
+
+ -- dellanna <ada@libersoft.it>  Mon, 11 May 2015 14:48:36 +0200
+
+libfirmapiu-java (0.1.5-3) libersoft-devel; urgency=medium
+
+  * Minor bugfixes 
+
+ -- Valerio Baldisserotto <svalo@libersoft.it>  Thu, 07 May 2015 16:39:24 +0200
+
 libfirmapiu-java (0.1.5-2) libersoft-devel; urgency=medium
 
   * Bugfix now keystore is included

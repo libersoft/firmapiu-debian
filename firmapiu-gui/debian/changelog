@@ -1,3 +1,29 @@
+firmapiu-gui (0.5.1-1) libersoft-devel; urgency=medium
+
+  * Changed how error messages appears in the logarea
+
+ -- Valerio Baldisserotto <valo@eigenlab.org>  Tue, 12 May 2015 09:33:02 +0200
+
+firmapiu-gui (0.5.1) libersoft-devel; urgency=medium
+
+  * Added defs of function handling Pin and Puk
+  * Changed how the app is executed
+  * DBus object and path are now parameters
+  * Empty functions for pin and puk
+  * Added class to draw gui for pin and puk
+  * Removed done TODOs
+  * Activated Manage button
+  * Cleaned up TODOs and improved messages
+  * Improved Class ChangeCodes
+  * Added skeleton of DBus call to change/verify codes
+  * pin_dialog now is code_dialog, supports both Pin and Puk
+  * Fixed spacing and definition of function
+  * Increase timeout to handle larger files
+  * Errors on operations on single files are displayed,bug fixes
+  * Added verifySingle to adhere to new signatures
+
+ -- Valerio Baldisserotto <valo@eigenlab.org>  Mon, 11 May 2015 18:07:25 +0200
+
 firmapiu-gui (0.5.0) libersoft-devel; urgency=medium
 
   * Default output folder are the same as the file source folder
